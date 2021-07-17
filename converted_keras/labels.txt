@@ -1,2 +1,3 @@
-0 me
-1 book
+0 rock
+1 scisser
+2 paper
